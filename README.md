@@ -4,11 +4,9 @@ Ansible playbook to create an AWS EC2 instance.
 
 ### Requirements
 
-The below requirements are needed on the host that executes this Playbook.
+The below requirements are needed on the host that executes this playbook.
 
 - Install python boto boto3 and configure AWS ID and Key on the ansible master server.
-
-### Playbook
 
 ```
 ---
